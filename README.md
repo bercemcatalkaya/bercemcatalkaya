@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ber%c3%a7em-%c3%b6z%c3%a7elik-1298a811b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ber%C3%A7em-%C3%B6z%C3%A7elik-1298a811b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bercemozcelik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ber%C3%A7em-%C3%B6z%C3%A7elik-1298a811b/" height="30" width="40" /></a>
 <a href="https://medium.com/@bercemcatalkaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bercemcatalkaya" height="30" width="40" /></a>
 </p>
 
